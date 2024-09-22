@@ -62,33 +62,6 @@ The Titanic Survival Prediction App allows users to input data about a passenger
 
    Open your browser and go to `http://localhost:8501`.
 
-## Screenshots
-
-### Input Form
-
-Include a screenshot of the input form here.
-
-### Prediction Result
-
-Include a screenshot of the prediction result here.
-
-## Project Structure
-
-The project structure is as follows:
-
-titanic-prediction/
-│
-├── train_model.py         # Script to train the model
-├── app.py                 # Streamlit application
-├── requirements.txt       # Python dependencies (if using pip)
-├── pyproject.toml         # Python dependencies (for Poetry)
-├── Dockerfile             # Docker configuration
-├── README.md              # Project documentation
-├── data/                  # Folder containing the dataset and model
-│   ├── train.csv
-│   ├── test.csv
-│   └── titanic_model.pkl  # Trained model
-
 ## Authors and Acknowledgments
 
 - **Zakaria Atlassi** - Initial work - [GitHub](https://github.com/zakatlassi)
